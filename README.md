@@ -49,5 +49,10 @@ minute discussion.
 Answer the following questions: 
 
 1. What new insights came out of the discussion?
+OS resource could be shared among different applications for Unikernel.
+
 2. Was there disagreement? Why? 
+Microkernel and Unikernel has the same design philosophy but Unikerenl runs on top of hypervisor which makes the implementation easier and simpler.
+
 3. What was the consensus about the work?
+Unikernel is an obvious solution for cloud services but not for general purposes.
